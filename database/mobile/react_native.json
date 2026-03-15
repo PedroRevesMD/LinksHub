@@ -30,5 +30,13 @@
         "category": "mobile",
         "subcategory": "react_native",
         "language": "english"
-    }
+    },
+    {
+        "name": "Reactix",
+        "description": "A free, copy-paste React Native component library with 60+ animated, production-ready UI components built on Expo and Reanimated.",
+        "url": "https://reacticx.com/",
+        "category": "mobile",
+        "subcategory": "react_native"
+        "language": "english"
+    },
 ]

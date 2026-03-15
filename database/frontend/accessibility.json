@@ -21,6 +21,13 @@
     "subcategory": "accessibility"
   },
   {
+    "name": "Design.dev",
+    "description": "A free toolbox for developers, featuring CSS generators and WCAG Checkers",
+    "url": "https://inclusive.microsoft.design/",
+    "category": "frontend",
+    "subcategory": "accessibility"
+  },
+  {
     "name": "Microsoft Inclusive Design Methodology",
     "description": "An amazing resource for anyone who wants to build more inclusive experiences for everyone.",
     "url": "https://inclusive.microsoft.design/",
