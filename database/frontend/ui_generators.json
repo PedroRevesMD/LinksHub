@@ -238,6 +238,13 @@
     "subcategory": "ui_generators"
   },
   {
+    "name": "Reactix",
+    "description": "Design.dev is an open-source toolbox for frontend developers, offering tools such as CSS Generators, WCAG checkers and AI Skill Builders",
+    "url": "https://design.dev/",
+    "category": "frontend",
+    "subcategory": "ui_generators"
+  },
+  {
     "name": "Tailwind UI",
     "description": "Tailwind UI is a collection of beautiful and expertly crafted components and templates, built by the makers of Tailwind CSS.",
     "url": "https://tailwindui.com/",
