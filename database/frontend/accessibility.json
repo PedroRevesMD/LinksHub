@@ -21,13 +21,6 @@
     "subcategory": "accessibility"
   },
   {
-    "name": "Design.dev",
-    "description": "Design.dev is an open-source toolbox for frontend developers, such as CSS Generators, WCAG checkers and AI Skill Builders",
-    "url": "https://design.dev/",
-    "category": "frontend",
-    "subcategory": "accessibility"
-  },
-  {
     "name": "Microsoft Inclusive Design Methodology",
     "description": "An amazing resource for anyone who wants to build more inclusive experiences for everyone.",
     "url": "https://inclusive.microsoft.design/",
